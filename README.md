@@ -1,2 +1,2 @@
 # bug-free-barnacle
-this is my first repository
+这是我的第一个测试用的项目
